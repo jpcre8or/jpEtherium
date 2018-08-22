@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aeschelon/inbox/package.json",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx4/index.php",
+		"/Users/aeschelon/Desktop/txt_file-to-AWS",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5a/includes/form_handlers/register_handler.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/~MIX Random Code/Modal Code",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/includes/header.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/assets/css/style.css",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx1/profile.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5b/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/form_handlers/settings_handler.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/assets/js/demo.js",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/header.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/includes/classes/User.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/assets/js/demo.js",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/like.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/comment_frame.php",
+		"/Users/aeschelon/Sites/Mixmoo/assets/js/jquery.Jcrop.js",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/includes/handlers/ajax_submit_profile_post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx3/includes/handlers/ajax_load_profile_posts.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5a/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx1/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx1/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/messages.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/classes/Message.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/classes/Notification.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/handlers/ajax_search.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/search.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/comment_frame.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/classes/User.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/handlers/ajax_load_notifications.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/profile.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5d/includes/classes/User.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/handlers/ajax_friend_search.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5c/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5xx/includes/handlers/ajax_load_posts.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/requests.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/like.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/profile.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/header.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5d/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/assets/js/demo.js",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5e/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/handlers/ajax_load_profile_posts.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/upload.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/form_handlers/delete_post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/handlers/ajax_load_posts.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5f/includes/handlers/ajax_submit_profile_post.php",
+		"/Users/aeschelon/Sites/Mixmoo/includes/handlers/ajax_submit_profile_post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5d/assets/css/style.css",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5e/profile.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5e/like.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5d/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5d/comment_frame.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5c/comment_frame.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5c/includes/classes/Post.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5a/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5b/includes/handlers/ajax_load_posts.php",
+		"/Users/aeschelon/Downloads/Demo-4/index.php",
+		"/CreatorAge Inc/CA Technology/CA Web Technologies/Demo-5b/index.php",
+		"/Users/aeschelon/Downloads/Demo-4/includes/form_handlers/login_handler.php",
+		"/Users/aeschelon/Downloads/Demo-4/includes/header.php",
+		"/Users/aeschelon/Downloads/Demo-4/register.php",
+		"/Users/aeschelon/Downloads/Demo-4/config/config.php",
+		"/Users/aeschelon/Downloads/Demo/register.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inbox.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
